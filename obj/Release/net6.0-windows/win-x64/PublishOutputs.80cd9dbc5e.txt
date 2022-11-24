@@ -1,0 +1,3 @@
+C:\Users\natha\Desktop\bank.pdb
+C:\Users\natha\Desktop\bank.dll.config
+C:\Users\natha\Desktop\bank.exe
